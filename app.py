@@ -139,4 +139,4 @@ elif unit_type == "Currency":
 
 # ✅ Footer
 st.markdown("---")
-st.markdown("<p style='text-align:center;'>👩‍💻 <b>Developed by Rubab Fatima</b> | 🚀 <i>Best UI Design</i></p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align:center;'>👩‍💻 <b>Developed by Rubab Fatima</b></p>", unsafe_allow_html=True)
